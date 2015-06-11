@@ -1,2 +1,2 @@
 # drammock.github.io
-Just a redirect
+This is just a redirect to http://dan.mccloy.info/
